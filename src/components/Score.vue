@@ -1,5 +1,5 @@
 <template>
-  <aside class="score">SCOOORE</aside>
+  <aside class="score">{{$t('score')}}</aside>
 </template>
 
 <script>
